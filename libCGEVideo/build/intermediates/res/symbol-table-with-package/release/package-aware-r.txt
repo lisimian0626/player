@@ -1,0 +1,4 @@
+org.wysaid.library
+int raw ic_launcher 0x7f140001
+int raw test 0x7f140002
+int string app_name 0x7f150001

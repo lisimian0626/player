@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\lism\\workspaces\\ISinging\\libCGEVideo\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "map": [
+                {
+                    "source": "F:\\lism\\workspaces\\ISinging\\libCGEVideo\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "44",
+                        "endOffsets": "56"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "44",
+                        "endOffsets": "95"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\lism\\workspaces\\ISinging\\libCGEVideo\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "F:\\lism\\workspaces\\ISinging\\libCGEVideo\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "44",
+                        "endOffsets": "56"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "44",
+                        "endOffsets": "95"
+                    }
+                }
+            ]
+        }
+    ]
+}

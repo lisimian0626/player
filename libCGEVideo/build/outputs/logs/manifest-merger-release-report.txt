@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:1:1-6:12
+	package
+		ADDED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:1:70-98
+		INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml
+		INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml
+		ADDED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:1:1-6:12
+		INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml
+		ADDED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:1:1-6:12
+		INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:2:5-73
+INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:2:5-73
+INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:2:5-73
+INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:2:5-73
+INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:2:5-73
+	android:targetSdkVersion
+		ADDED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:2:42-71
+		INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml
+		INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:2:15-41
+		INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml
+		INJECTED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml
+application
+ADDED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:3:5-4:19
+	android:label
+		ADDED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:3:45-77
+	android:allowBackup
+		ADDED from F:\lism\workspaces\ISinging\libCGEVideo\src\main\AndroidManifest.xml:3:18-44

@@ -1,0 +1,47 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion rootProject.ext.android.compileSdkVersion
+    publishNonDefault true //this line
+    defaultConfig {
+        minSdkVersion rootProject.ext.android.minSdkVersion
+        targetSdkVersion rootProject.ext.android.targetSdkVersion
+        versionCode 1
+        versionName "2.4.6"
+
+        externalNativeBuild {
+            cmake {
+                cppFlags ""
+                abiFilters 'armeabi', 'armeabi-v7a', 'arm64-v8a'
+            }
+        }
+
+    }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['src/main/libs']
+        }
+    }
+    externalNativeBuild {
+        cmake {
+            path "src/main/jni/CMakeLists.txt"
+        }
+    }
+    buildTypes {
+        debug {
+            jniDebuggable = true
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        release {
+            jniDebuggable = false
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    buildToolsVersion '28.0.2'
+}
+
+dependencies {
+    api fileTree(include: ['*.jar'], dir: 'libs')
+}
